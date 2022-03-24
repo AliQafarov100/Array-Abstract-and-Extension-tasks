@@ -1,0 +1,14 @@
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\bin\Debug\netcoreapp3.1\Search with Extensions.exe
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\bin\Debug\netcoreapp3.1\Search with Extensions.deps.json
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\bin\Debug\netcoreapp3.1\Search with Extensions.runtimeconfig.json
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\bin\Debug\netcoreapp3.1\Search with Extensions.runtimeconfig.dev.json
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\bin\Debug\netcoreapp3.1\Search with Extensions.dll
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\bin\Debug\netcoreapp3.1\Search with Extensions.pdb
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\obj\Debug\netcoreapp3.1\Search with Extensions.csproj.AssemblyReference.cache
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\obj\Debug\netcoreapp3.1\Search with Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\obj\Debug\netcoreapp3.1\Search with Extensions.AssemblyInfoInputs.cache
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\obj\Debug\netcoreapp3.1\Search with Extensions.AssemblyInfo.cs
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\obj\Debug\netcoreapp3.1\Search with Extensions.csproj.CoreCompileInputs.cache
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\obj\Debug\netcoreapp3.1\Search with Extensions.dll
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\obj\Debug\netcoreapp3.1\Search with Extensions.pdb
+C:\Users\M S I\source\repos\Search with Extensions\Search with Extensions\obj\Debug\netcoreapp3.1\Search with Extensions.genruntimeconfig.cache
